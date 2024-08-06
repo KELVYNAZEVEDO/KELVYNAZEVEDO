@@ -1,20 +1,7 @@
-###HI THERE
+### SEJA BEM VINDO (A) AO MEU PERFIL 🇧🇷
 
+Meu nome é *Kelvyn*
 
-
-
-
-
-
-- 👋 Hi, I’m @KELVYNAZEVEDO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KELVYNAZEVEDO/KELVYNAZEVEDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Estou fazendo cursos na Alura
+-Aprendendo a utilizar o Github
+### Minhas plataformas🌐
